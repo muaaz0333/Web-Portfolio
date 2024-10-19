@@ -4,7 +4,7 @@ Welcome to my professional web portfolio! This is a personal project showcasing 
 
 ## 🖥️ Live Demo
 
-Check out the live version of my portfolio [here]((https://muaaz1.netlify.app/)).
+Check out the live version of my portfolio [https://muaaz1.netlify.app/].
 
 ## ✨ Features
 
@@ -21,13 +21,13 @@ Check out the live version of my portfolio [here]((https://muaaz1.netlify.app/))
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 🔧 How to Use
-git clone https://github.com/muaaz0333/Web-Portfolio.git
-cd Web-Portfolio
-run npm install on the terminal
+- git clone https://github.com/muaaz0333/Web-Portfolio.git
+- cd Web-Portfolio
+- run npm install on the terminal
 
 Kind Regards,
-Muaaz Ahmad
-Linkedin: https://www.linkedin.com/in/expertfullstackdeveloper/
-Email: muaazahmad001@gmail.com
-Contact: +92 333 4246144
-Github: https://github.com/muaaz0333
+- Muaaz Ahmad
+- Linkedin: https://www.linkedin.com/in/expertfullstackdeveloper/
+- Email: muaazahmad001@gmail.com
+- Contact: +92 333 4246144
+- Github: https://github.com/muaaz0333
