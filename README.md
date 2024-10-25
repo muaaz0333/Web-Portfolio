@@ -1,6 +1,6 @@
 # 🌐 Muaaz Ahmad's Web Portfolio
 
-Welcome to my professional web portfolio! This is a personal project showcasing my skills, experiences, and projects in web development. Feel free to explore the portfolio to get an overview of what I do and the technologies I've worked with.
+Welcome to my web portfolio!. Feel free to explore the portfolio to get an overview of what I do and the technologies I've worked with.
 
 ## 🖥️ Live Demo
 
